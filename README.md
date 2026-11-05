@@ -8,7 +8,7 @@
 <img src="assets/about-intro.svg" alt="Computer Science undergraduate at NIET Greater Noida (B.Tech CSE, CGPA 8.5/10, graduating 2028) who builds production-style full-stack and AI systems: authentication, database-level analytics, automated testing, CI/CD, and AI output checked against source data." width="100%">
 
 <img src="assets/title-recognition.svg" alt="02 Recognition — The record, so far." width="100%">
-<img src="assets/achievements.svg" alt="CGPA 8.5/10. 500+ DSA problems solved across LeetCode and GeeksforGeeks. HackerRank 5 stars in Problem Solving. Built Finverity for Razorpay's AI Finance Controller buildathon." width="100%">
+<img src="assets/achievements.svg" alt="CGPA 8.5/10. 800+ DSA problems solved across LeetCode and GeeksforGeeks. HackerRank 5 stars in Problem Solving. Built Finverity for Razorpay's AI Finance Controller buildathon." width="100%">
 
 <img src="assets/title-work.svg" alt="03 Selected work — Things I've built." width="100%">
 
